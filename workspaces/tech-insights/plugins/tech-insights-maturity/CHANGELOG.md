@@ -1,5 +1,15 @@
 # @backstage-community/plugin-tech-insights-maturity
 
+## 0.7.0
+
+### Minor Changes
+
+- e4d7130: add ability to customize rank titles and descriptions via app-config
+
+### Patch Changes
+
+- 3dbf0ae: Make tooltip and reference icon optional so it doesn't show when there is no link configured for the check
+
 ## 0.6.5
 
 ### Patch Changes
