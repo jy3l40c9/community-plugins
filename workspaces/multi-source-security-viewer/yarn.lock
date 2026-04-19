@@ -1411,7 +1411,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage-community/plugin-azure-devops-common@npm:^0.20.0, @backstage-community/plugin-azure-devops-common@npm:^0.20.1":
+"@backstage-community/plugin-azure-devops-common@npm:^0.20.1":
   version: 0.20.1
   resolution: "@backstage-community/plugin-azure-devops-common@npm:0.20.1"
   dependencies:
@@ -1586,7 +1586,7 @@ __metadata:
   dependencies:
     "@aonic-ui/pipelines": "npm:^3.1.1"
     "@backstage-community/plugin-azure-devops": "npm:^0.29.0"
-    "@backstage-community/plugin-azure-devops-common": "npm:^0.20.0"
+    "@backstage-community/plugin-azure-devops-common": "npm:^0.21.0"
     "@backstage-community/plugin-github-actions": "npm:^0.22.0"
     "@backstage-community/plugin-jenkins": "npm:^0.30.0"
     "@backstage-community/plugin-multi-source-security-viewer-common": "workspace:^"
